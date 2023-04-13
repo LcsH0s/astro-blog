@@ -8,7 +8,7 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: SITE.website,
+  site: 'https://blog.dagrcorp.com',
   integrations: [
     tailwind({
       config: {
@@ -36,7 +36,7 @@ export default defineConfig({
   },
   vite: {
     optimizeDeps: {
-      exclude: ["@resvg/resvg-js"],
+      	exclude: ["@resvg/resvg-js"],
     },
   },
 });

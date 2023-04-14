@@ -53,7 +53,7 @@ Aaaaaaand BINGO!! Using an RGB Blue filter (using this online super useful tool)
 
 If we zoom on theses patterns, we can clearly see that this must be some kind of encoded information and that it CAN’T possibly be some innocent dots. Furthermore, looking at the perfectly ordered grid formed by those dots, they don’t seem to come from a possible printing defect.
 
-![Blue Zoomed Photocopy](https://blog.dagrcorp.com/assets/how-to-trace-back-photocopies-with-no-information/6.jpeg)
+![Blue Zoomed Photocopy](https://blog.dagrcorp.com/assets/how-to-trace-back-photocopies-with-no-information/6.png)
 
 The final indication that these patterns are definitely printed on purpose is that if you look a little longer, you can easily see that THE SAME pattern is repeated ALL OVER the page.
 

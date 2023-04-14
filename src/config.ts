@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://blog.dagrcorp.com/",
   author: "Isaac Dagr",
   desc: "A simple blog about boring stuff",
-  title: "Dagr Astro Blog",
+  title: "Dagr Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
